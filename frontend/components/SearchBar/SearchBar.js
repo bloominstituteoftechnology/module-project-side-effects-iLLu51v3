@@ -1,7 +1,7 @@
 // You do not need to change any code in this file for MVP
 import React from "react";
 
-const SearchBar = () => {
+const SearchBar = () => { // SearchBar = () shows that SearchBar is not requiring/expecting any specific props
   return (
     <div className="search-bar-wrapper">
       <div className="social">📷</div>

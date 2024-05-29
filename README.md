@@ -31,3 +31,12 @@ Your project should end up looking like [this](./frontend/design-files/insta-clo
 ## Submission Format
 
 - [ ] Submit a link to your repository in Canvas
+
+
+## Forward motion down the rabbit hole
+
+- Work on filling in App.js
+- Move to Posts.js to fill to make it render to the dom
+- Move to Post.js
+- LikeSection.js
+Back to App.js to finish the likePost variable
